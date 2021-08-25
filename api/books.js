@@ -25,10 +25,10 @@ router.get("/:bookId", (req, res) => {
   }
 });
 
-router.get("/title/:query", (req, res) => {
+router.get("/bidang/:query", (req, res) => {
   // TODO urldecode query
   const books = booksData.filter((item) => {
-    return item.title.toLowerCase().includes(req.params.query.toLowerCase());
+    return item.bidang.toLowerCase().includes(req.params.query.toLowerCase());
   });
 
   if (books.length > 0) {
