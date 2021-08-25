@@ -1,7 +1,7 @@
 [
   {
     "card": "9781593275846",
-    "bidang": "Dokter Spesialis Anak",
+    "title": "Dokter Spesialis Anak",
     "subtitle": "",
     "nama": "dr. Budi Rahardjo, Sp A",
     "hari": "Senin , Rabu , Jumat",
@@ -13,7 +13,7 @@
   },
   {
     "card": "9781452177397",
-    "bidang": "Dokter Anak-Konsultan Tumbuh Kembang & Pediatri Sosial",
+    "title": "Dokter Anak-Konsultan Tumbuh Kembang & Pediatri Sosial",
     "subtitle": "",
     "nama": "dr. MM. Tri Widiyati, M.Sc., Sp.A(K)",
     "hari": "Jum'at , Sabtu",
@@ -25,7 +25,7 @@
   },
   {
     "card": "9781452173054",
-    "bidang": "Dokter Bedah Tulang",
+    "title": "Dokter Bedah Tulang",
     "subtitle": "",
     "nama": "dr. Harjanto Effendi, Sp.OT ",
     "hari": "Senin ",
@@ -37,7 +37,7 @@
   },
   {
     "card": "9781465495532",
-    "bidang": "Dokter Bedah Umum",
+    "title": "Dokter Bedah Umum",
     "subtitle": "",
     "nama": "dr. Budi SH Gultom, Sp.B",
     "hari": "SELASA, RABU, JUMAT",
@@ -49,7 +49,7 @@
   },
   {
     "card": "9789769505780",
-    "bidang": "Dokter Gigi",
+    "title": "Dokter Gigi",
     "subtitle": "",
     "nama": "drg. Dina Riyanti, Sp.Ort ",
     "hari": "Kamis",
