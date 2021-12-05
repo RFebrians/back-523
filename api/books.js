@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const fs = require("fs");
 
-// https://www.googleapis.com/books/v1/volumes?q=flowers
+// to string . or stringify
 const booksData = JSON.parse(
   fs.readFileSync("./api/booksData.json").toString()
 );
@@ -25,6 +25,7 @@ router.get("/:bookId", (req, res) => {
   }
 });
 
+// params
 router.get("/title/:query", (req, res) => {
   // TODO urldecode query
   const books = booksData.filter((item) => {
